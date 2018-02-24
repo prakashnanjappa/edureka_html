@@ -1,0 +1,12 @@
+<html>
+  <head><title>headings</title>
+  </head>
+  <body bgcolor=" #a43c26" text=" #1a3cd7 " >
+   <h1 align="center">welcom to html markup language</h1>
+   <h3 align="center">welcom to html markup language</h2>
+   <h3 align="center">welcom to html markup language</h3>
+   <h4 align="center">welcom to html markup language</h4>
+   <h5 align="center">welcom to html markup language</h5>
+   <h6 align="center">welcom to html markup language</h6>
+ </body>
+</html>
