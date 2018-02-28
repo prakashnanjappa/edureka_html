@@ -1,0 +1,23 @@
+body{
+  background-color:lightgreen;
+  color:#555555;
+  font-family:arial,Helvetica,Times;
+  font-size:16px;
+  font-weight: normal;
+  line-height:1.6em;
+  margin:0px;
+}
+.conttainer{
+  width: 80%;
+  margin: auto;
+}
+.box-1{
+  background-color: #333;
+  color:#fff;
+
+  border-right:5px red solid;
+  border-left: 5px red solid;
+  border-bottom: 5px red solid;
+  border-top: 5px red solid;
+  <!-- same as abobe -->
+}
